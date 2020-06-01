@@ -1,0 +1,30 @@
+## 设计模式
+#### 重新理解Java的23种设计模式
+#### 创建型模式的主要关注点是“怎样创建对象？”，它的主要特点是“将对象的创建与使用分离”。
+* [单例模式](Singleton/README.md)
+* [原型模式](Prototype/README.md)
+* [工厂方法模式](Factory/README.md)
+* [抽象工厂模式](AbstractFactory/README.md)
+* [建造者模式](Builder/README.md)
+
+#### 结构型模式描述如何将类或对象按某种布局组成更大的结构。它分为类结构型模式和对象结构型模式，前者采用继承机制来组织接口和类，后者釆用组合或聚合来组合对象。
+* [代理模式](Proxy/README.md)
+* [适配器模式](Adapter/README.md)
+* [桥接模式](Bridge/README.md)
+* [装饰模式](Decoration/README.md)
+* [外观模式](Facade/README.md)
+* [享元模式](Flyweight/README.md)
+* [组合模式](Composite/README.md)
+
+#### 行为型模式用于描述程序在运行时复杂的流程控制，即描述多个类或对象之间怎样相互协作共同完成单个对象都无法单独完成的任务，它涉及算法与对象间职责的分配。
+* [模板方法模式](Template/README.md)
+* [策略模式](Strategy/README.md)
+* [命令模式](Command/README.md)
+* [职责链模式](Chain/README.md)
+* [状态模式](State/README.md)
+* [观察者模式](Observer/README.md)
+* [中介者模式](Mediator/README.md)
+* [迭代器模式](Iterator/README.md)
+* [访问者模式](Visitor/README.md)
+* [备忘录模式](Memento/README.md)
+* [解释器模式](Interpreter/README.md)
